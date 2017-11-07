@@ -1,0 +1,28 @@
+/* This is where third-party fonts would go. */
+
+/* This sets some basic rules for the document. */
+* {
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	text-decoration: none;
+}
+
+/* This is the deafult styling fot the document. */
+html,
+body {
+	background-color: #FFF;
+	color: #000;
+	width: 100%;
+	height: auto;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	text-rendering: optimizeLegibility;
+	overflow-x: hidden;
+	text-align: center;
+	text-transform: none;
+}
+
+/* Put custom stying here: */
